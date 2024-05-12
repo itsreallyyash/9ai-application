@@ -32,7 +32,7 @@ Navigate to 9ai-config-config.py.
 Modify line no.4.
 Enter the username and password for your MongoDB database user.
 
-* uri = "mongodb+srv://<user>:<pass>app.7kssw1z.mongodb.net/?retryWrites=true&w=majority&appName=9aiapp"
+* uri = "mongodb+srv://[username]<user>:<pass>[password]app.7kssw1z.mongodb.net/?retryWrites=true&w=majority&appName=9aiapp"
 
 4. Running the Application:
 With the virtual environment activated and MongoDB cluster set up, run the following command to start your application:
